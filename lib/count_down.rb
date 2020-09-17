@@ -5,3 +5,5 @@ while (count_down >= 1) do
   puts count_down
   count_down --
 end 
+
+puts "Happy New Year!"
